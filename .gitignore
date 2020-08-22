@@ -52,3 +52,11 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+# direnv
+**/.direnv/
+
+# Jupyter
+**/.ipynb_checkpoints/
+
+# tables
+**/tables/
